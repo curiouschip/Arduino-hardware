@@ -1,6 +1,8 @@
 piptouch.name=PipTouch
-piptouch.vid.0=0x2341
-piptouch.pid.0=0x0036
+leonardo.vid.0=0x2341
+leonardo.pid.0=0x0036
+leonardo.vid.1=0x2341
+leonardo.pid.1=0x8036
 
 piptouch.upload.tool=arduino:avrdude
 piptouch.upload.protocol=avr109
@@ -22,7 +24,7 @@ piptouch.bootloader.lock_bits=0xEF
 piptouch.build.mcu=atmega32u4
 piptouch.build.f_cpu=16000000L
 piptouch.build.vid=0x2341
-piptouch.build.pid=0x0036
+piptouch.build.pid=0x8036
 piptouch.build.usb_manufacturer="Curious Chip"
 piptouch.build.usb_product="PipTouch"
 piptouch.build.board=AVR_LEONARDO
