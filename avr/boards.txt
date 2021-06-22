@@ -1,8 +1,8 @@
 piptouch.name=PipTouch
-leonardo.vid.0=0x2341
-leonardo.pid.0=0x0036
-leonardo.vid.1=0x2341
-leonardo.pid.1=0x8036
+piptouch.vid.0=0x2341
+piptouch.pid.0=0x0036
+piptouch.vid.1=0x2341
+piptouch.pid.1=0x8036
 
 piptouch.upload.tool=arduino:avrdude
 piptouch.upload.protocol=avr109
